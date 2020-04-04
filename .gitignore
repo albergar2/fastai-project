@@ -3,3 +3,4 @@ models/
 *.zip
 *.pth
 *.pkl
+.ipynb_checkpoints/
